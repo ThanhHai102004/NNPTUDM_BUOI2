@@ -1,1 +1,2 @@
-# NNPTUDM_BUOI2
+ Họ và tên: Nguyễn Thanh Hải
+ Mssv: 2280606915
